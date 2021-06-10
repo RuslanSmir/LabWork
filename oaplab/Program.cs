@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // namespace такой же как и название проекта
-namespace LabaSokolov
+namespace LabaSmirnov
 {
     // про классы мы пока не говорили...
     class Program
