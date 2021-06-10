@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Xml.Serialization;
 
 
-namespace smirnov
+namespace LabSmirnov
 {
     [Serializable]
     [DataContract]
